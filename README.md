@@ -90,5 +90,4 @@ The project uses four CSV files:
 
 ---
 
-## 📂 Repository Structure
 
